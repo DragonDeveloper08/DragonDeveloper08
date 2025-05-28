@@ -13,8 +13,7 @@
 ---
 
 ### 💼 About Me
-
-I’m **Dragon**, a passionate developer, manager, and CEO focused on powering innovative projects like **HostingKarle**. With a strong drive for leadership and hands-on development, I thrive on blending management expertise with cutting-edge technology.
+Hey!👋 **Am Dragon**, a Passionate developer, manager,Admin and CEO focused on powering innovative projects. With a strong drive for leadership and hands-on development, I thrive on blending management expertise with cutting-edge technology.
 
 Currently learning fullstack web development, Java, Python, and much more, I’m committed to continuous growth and creating impactful solutions in the **hosting, tech, business, and gaming communities**.
 
