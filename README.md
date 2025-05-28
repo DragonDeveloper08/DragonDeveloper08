@@ -1,4 +1,4 @@
-<!-- Custom DRAGON Header -->
+<!-- Custom MYSELF DRAGON Header -->
 <h1 align="center" style="
   font-family: 'Fira Code', monospace;
   font-weight: 900;
@@ -12,13 +12,13 @@
   display: inline-block;
   margin: 20px auto;
 ">
-  DRAGON
+  MYSELF DRAGON
 </h1>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Code+%7C+Manage+%7C+Lead+%E2%AD%90;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+MYSELF+DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** ⚡  
+Hey there, I'm **Dragon** ⭐  
 A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
