@@ -3,10 +3,10 @@
   <img src="https://img.shields.io/badge/DRAGON-Full%20Stack%20Dev%20%7C%20CEO-red?style=for-the-badge&logo=dragon&logoColor=white" />
 </p>
 
-<!-- ⌨️ Typing Animation Tagline -->
+<!-- ⌨️ Improved Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Code%2C+Manage+%26+Lead;Powering+Management%2C+Development+%26+Leadership+with+Fire;Welcome+to+my+World+-+DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%2C+Manage+%26+Lead+%F0%9F%94%A5;Powering+Management%2C+Development+%26+Leadership+with+Fire;CEO+%7C+Developer+%7C+Leader+-+DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,21 +14,13 @@
 
 ### 💼 About Me
 
-Hi there! I'm **Dragon**, a passionate developer, CEO, and management enthusiast. I specialize in building structured systems, leading teams, and developing innovative solutions. Currently focused on building **HostingKarle**, I'm dedicated to learning fullstack development, design, and digital business.
+I’m **Dragon**, a passionate developer, manager, and CEO focused on powering innovative projects like **HostingKarle**. With a strong drive for leadership and hands-on development, I thrive on blending management expertise with cutting-edge technology.
 
-💡 *I blend tech, leadership, and design to fuel creativity and strategy.*
-
----
-
-### 🎯 Vision & Goals
-
-- 🔨 Build fullstack web apps that solve real problems  
-- 📈 Lead technical teams and empower the hosting community  
-- 🧠 Constantly grow as a developer, designer, and entrepreneur  
+Currently learning fullstack web development, Java, Python, and much more, I’m committed to continuous growth and creating impactful solutions in the **hosting, tech, business, and gaming communities**.
 
 ---
 
-### 🚀 On My Learning Radar
+### 🚀 Would Be Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -42,24 +34,18 @@ Hi there! I'm **Dragon**, a passionate developer, CEO, and management enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 </p>
 
-🧰 Plus: Database Management | Business Strategy | UI Design
+🧰 Plus: Database Management | Business Strategy | UI Design  
+🧠 *And much more...*
 
 ---
 
-### 🧠 Skills Snapshot
+### 🔥 Working On
 
-- ⚙️ **Languages:** Java, Python, JavaScript  
-- 🌐 **Web Dev:** HTML, CSS, React, Node.js  
-- 🧾 **Database:** MySQL, MongoDB (in progress)  
-- 🎨 **Design:** Canva, UI/UX Prototyping  
-- 💼 **Business:** Project Management, Strategy  
-
----
-
-### 🔥 Projects
-
-- 🚀 [HostingKarle.com](https://hostingkarle.com) – Hosting platform built with fire & vision  
-- ⚒️ Multiple dev, community, and server-side tools in development...
+<p align="center">
+  <a href="https://hostingkarle.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HostingKarle-HostingKarle.com-blue?style=for-the-badge&logo=cloudflare" alt="HostingKarle" />
+  </a>
+</p>
 
 ---
 
@@ -112,7 +98,3 @@ Hi there! I'm **Dragon**, a passionate developer, CEO, and management enthusiast
 ---
 
 > 🐉 *"Discipline, fire, and code — that's how dragons lead."*
-
----
-
-Would you like this as a `.md` file you can **download and open directly** in your editor? Or want to preview it live in a GitHub repo first?
