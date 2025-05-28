@@ -3,29 +3,29 @@
   <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&rounded=true" />
 </p>
 
-<!-- ⌨️ Typing Animation - Smaller font size for better fit -->
+<!-- ⌨️ Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Code%20%7C%20Manage%20%7C%20Develop"
-      alt="Typing line 1"
-      style="margin-bottom: 0;"
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=80&lines=Code%20%7C%20Manage%20%7C%20Develop" 
+      alt="Typing line 1" 
+      style="margin-bottom: 0;" 
     />
   </a>
 </p>
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin-top: -15px;">
   <a href="https://github.com/DragonDeveloper">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Empowering%20Management,%20development%20and%20leadership%20with%20fire"
-      alt="Typing line 2"
-      style="margin-top: 0;"
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=80&lines=Empowering%20Management,%20development%20and%20leadership%20with%20fire" 
+      alt="Typing line 2" 
+      style="margin-top: 0;" 
     />
   </a>
 </p>
 
-<!-- ⭐ Animated Emoji -->
+<!-- 👋 Animated Wave Emoji -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="40" alt="Star animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
 </p>
 
 ---
@@ -66,8 +66,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 💼 Projects & Ventures
 
 🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-🎮 **Executive** -
-[GameKarle]
+🎮 [GameKarle](A Minecraft network) 
 
 ---
 
