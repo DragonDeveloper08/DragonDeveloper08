@@ -1,6 +1,6 @@
-<!-- 🔥 Enlarged Static DRAGON Banner -->
+<!-- 🔥 Enlarged Static DRAGON Banner with Curved Corners -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&logoWidth=48&label=&color=ff0000" height="80" />
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&borderRadius=20" height="80" />
 </p>
 
 <!-- ⌨️ Enlarged Typing Animation -->
