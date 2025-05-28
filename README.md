@@ -1,54 +1,64 @@
 <!-- 🔥 Static DRAGON Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-Full%20Stack%20Dev%20%7C%20CEO-red?style=for-the-badge&logo=dragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRAGON-Full%20Stack%20Dev%20%7C%20Entrepreneur-red?style=for-the-badge&logo=dragon&logoColor=white" />
 </p>
 
-<!-- ⌨️ Improved Typing Animation -->
+<!-- ⌨️ Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%2C+Manage+%26+Lead+%F0%9F%94%A5;Powering+Management%2C+Development+%26+Leadership+with+Fire;CEO+%7C+Developer+%7C+Leader+-+DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-### 💼 About Me
-Hey!👋 **Am Dragon**, a Passionate developer, manager,Admin and CEO focused on powering innovative projects. With a strong drive for leadership and hands-on development, I thrive on blending management expertise with cutting-edge technology.
-
-Currently learning fullstack web development, Java, Python, and much more, I’m committed to continuous growth and creating impactful solutions in the **hosting, tech, business, and gaming communities**.
-
----
-
-### 🚀 Would Be Learning
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Canva_Logo.png" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-</p>
-
-🧰 Plus: Database Management | Business Strategy | UI Design  
-🧠 *And much more...*
-
----
-
-### 🔥 Working On
-
+<!-- 👋 Animated Greeting -->
 <p align="center">
-  <a href="https://hostingkarle.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/HostingKarle-HostingKarle.com-blue?style=for-the-badge&logo=cloudflare" alt="HostingKarle" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 💼 About Me
+
+Hey there, I'm **Dragon** 🐉  
+A visionary **developer, manager, and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
+
+🚀 Founder of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
+
+🎯 I turn **ideas into digital empires** — code with precision, manage with strategy, and lead with heart.
+
+> 💡 “I don't just build software, I build systems that **empower** people.”
+
+---
+
+## 🌟 Mission | Vision | Values
+
+🔭 **Mission:** Craft intelligent, scalable, user-centric platforms.  
+👁️ **Vision:** Transform ideas into innovative ecosystems.  
+💎 **Values:** Excellence · Discipline · Integrity · Leadership
+
+---
+
+## 🧱 Tech Stack
+
+- Web Development  
+- Programming Languages  
+- Databases  
+- Design Tools  
+- Management Tools  
+- Deployment & Hosting  
+
+---
+
+## 💼 Projects & Ventures
+
+🛠️ **Founder** — [HostingKarle.com](https://hostingkarle.com)  
+🎮 Community work in **Minecraft & gaming**  
+🧠 Developer behind multiple tools, dashboards, and internal systems  
+🪄 Soon launching personal tools & open-source solutions
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DragonDeveloper&show_icons=true&theme=radical&border_radius=10&hide_border=false" width="49%" />
@@ -61,7 +71,7 @@ Currently learning fullstack web development, Java, Python, and much more, I’m
 
 ---
 
-### 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DragonDeveloper&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=15" />
@@ -69,31 +79,25 @@ Currently learning fullstack web development, Java, Python, and much more, I’m
 
 ---
 
-### 📌 GitHub Activity Graph
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DragonDeveloper&theme=redical&area=true&hide_border=false" />
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/YOUR-SERVER"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## ✨ Fun Facts
 
-<p align="center">
-  <a href="https://discord.gg/YOUR_SERVER" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/DragonDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- 🐉 "Dragon" is a symbol of my mindset — bold, strategic, and relentless  
+- ⚙️ I love blending **development with management**  
+- 💼 I'm more than a coder — I’m a digital leader  
+- 🎮 Always down to optimize Minecraft servers & tech platforms  
+- 📘 My motto: *Build to Empower. Scale with Vision.*
 
 ---
 
-> 🐉 *"Discipline, fire, and code — that's how dragons lead."*
+> 🔥 **“From spark to inferno — I build with purpose and scale with fire.”**
