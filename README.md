@@ -18,7 +18,7 @@
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Code+%7C+Manage+%7C+Lead+%E2%AD%90;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+MYSELF+DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Code+%7C+Manage+%7C+Lead+%E2%AD%90;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+- DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
