@@ -1,16 +1,19 @@
 <!-- 🔥 Static DRAGON Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&rounded=true" />
 </p>
 
-<!-- ⌨️ Typing Animation -->
+<!-- ⌨️ Typing Animation (multi-line cycling) -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%20%7C%20Manage%20%7C%20Lead%20%F0%9F%94%A5;Powering%20Innovation%2C%20Business%2C%20%26%20Development;Crafting%20Future-ready%20Tech%20-%20DRAGON" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
 
-<!-- 👋 Animated Greeting -->
+<!-- 👋 Animated Wave Emoji -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
 </p>
@@ -19,8 +22,8 @@
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** ⚡
-A visionary & passionate **developer,manager,Executive and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
+Hey there, I'm **Dragon** ⚡  
+A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
@@ -41,19 +44,19 @@ A visionary & passionate **developer,manager,Executive and entrepreneur**, blazi
 ## 🌐 Learning
 
 - Web Development  
-- Programming Languages  
-- Databases  
-- Design Tools  
-- Management Tools  
+- Programming Languages (Java, Python, Node.js, React)  
+- Databases & Business Management  
+- Design Tools (Canva)  
+- Management Tools (ClickUp, Notion)  
 - Deployment & Hosting  
-- Business & entrepreneurship
+- Business & Entrepreneurship
 
 ---
 
 ## 💼 Projects & Ventures
 
 🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-[GameKarle](A Minecraft network) 
+🎮 [GameKarle](A Minecraft network) 
 
 ---
 
@@ -86,8 +89,6 @@ A visionary & passionate **developer,manager,Executive and entrepreneur**, blazi
   <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 ---
 
