@@ -1,6 +1,11 @@
-<!-- 🔥 Static DRAGON Banner -->
+<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&rounded=true" />
+  <a href="https://github.com/DragonDeveloper">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON" 
+      alt="Typing SVG - MYSELF DRAGON" 
+    />
+  </a>
 </p>
 
 <!-- ⌨️ Typing Animation (multi-line cycling) -->
@@ -11,11 +16,6 @@
       alt="Typing SVG" 
     />
   </a>
-</p>
-
-<!-- 👋 Animated Wave Emoji -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
 </p>
 
 ---
