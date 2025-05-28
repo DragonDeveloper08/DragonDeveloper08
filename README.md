@@ -1,26 +1,26 @@
-<!-- 🔥 Static DRAGON Banner -->
+<!-- 🔥 Enlarged Static DRAGON Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&logoWidth=48&label=&color=ff0000" height="80" />
 </p>
 
-<!-- ⌨️ Typing Animation -->
+<!-- ⌨️ Enlarged Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=90&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 👋 Animated Greeting -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
+<!-- ⚡ Enlarged Emoji -->
+<p align="center" style="font-size: 60px;">
+  ⚡
 </p>
 
 ---
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** ⚡
-A visionary & passionate **developer,manager,Executive and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
+Hey there, I'm **Dragon** ⚡  
+A visionary & passionate **developer, manager, Executive and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
