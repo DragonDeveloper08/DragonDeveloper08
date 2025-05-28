@@ -1,8 +1,8 @@
-<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" -->
+<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON" 
       alt="Typing SVG - MYSELF DRAGON" 
     />
   </a>
@@ -23,7 +23,7 @@
 ## 💼 About Me
 
 Hey there, I'm **Dragon** ⚡  
-A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business,developing,and gaming** communities.
+A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, developing, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
@@ -56,8 +56,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 💼 Projects & Ventures
 
 👑 **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-👑 **Executive** -
-[GameKarle | A minecraft network]
+👑 **Executive** — [GameKarle | A Minecraft Network]
 
 ---
 
