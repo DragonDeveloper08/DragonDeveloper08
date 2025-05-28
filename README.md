@@ -50,14 +50,14 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 - Management Tools (ClickUp, Notion)  
 - Deployment & Hosting  
 - Business & Entrepreneurship
-** And Much More **
+- And Much More
 
 ---
 
 ## 💼 Projects & Ventures
 
 👑 **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-👑 **Executive** — [GameKarle | A Minecraft network]
+👑 **Executive** — GameKarle
 
 ---
 
@@ -85,7 +85,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact.dragon.me@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/YOUR-SERVER"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
