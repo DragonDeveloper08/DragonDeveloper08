@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- ⚡ Animated Lightning Bolt -->
+<!-- ⚡ Animated Lightning Bolt Badge -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Lightning Bolt" width="60" />
+  <img src="https://img.shields.io/badge/Lightning-%E2%9A%A1-yellow?style=for-the-badge&animation=glitch" alt="Animated Lightning Bolt" width="80" />
 </p>
 
 ---
