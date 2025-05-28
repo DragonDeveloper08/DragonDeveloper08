@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%20%7C%20Manage%20%7C%20Lead%20%F0%9F%94%A5;Powering%20Innovation%2C%20Business%2C%20%26%20Development;Crafting%20Future-ready%20Tech%20-%20DRAGON" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%20%7C%20Manage%20%7C%20Lead%20%F0%9F%94%A5;Powering%20Management%2C%20Business%20Development%20%26%20Leadership;Crafting%20Future-ready%20Tech%20-%20DRAGON" 
       alt="Typing SVG" 
     />
   </a>
