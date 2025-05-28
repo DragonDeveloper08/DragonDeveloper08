@@ -19,10 +19,10 @@
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** 🐉  
-A visionary **developer, manager, and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
+Hey there, I'm **Dragon** ⚡
+A visionary & passionate **developer,manager,Executive and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
 
-🚀 Founder of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
+🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
 🎯 I turn **ideas into digital empires** — code with precision, manage with strategy, and lead with heart.
 
@@ -38,7 +38,7 @@ A visionary **developer, manager, and entrepreneur**, blazing trails in the **ho
 
 ---
 
-## 🧱 Tech Stack
+## 🌐 Learning
 
 - Web Development  
 - Programming Languages  
@@ -46,15 +46,14 @@ A visionary **developer, manager, and entrepreneur**, blazing trails in the **ho
 - Design Tools  
 - Management Tools  
 - Deployment & Hosting  
+- Business & entrepreneurship
 
 ---
 
 ## 💼 Projects & Ventures
 
-🛠️ **Founder** — [HostingKarle.com](https://hostingkarle.com)  
-🎮 Community work in **Minecraft & gaming**  
-🧠 Developer behind multiple tools, dashboards, and internal systems  
-🪄 Soon launching personal tools & open-source solutions
+🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
+[GameKarle](A Minecraft network) 
 
 ---
 
@@ -89,14 +88,6 @@ A visionary **developer, manager, and entrepreneur**, blazing trails in the **ho
 </p>
 
 ---
-
-## ✨ Fun Facts
-
-- 🐉 "Dragon" is a symbol of my mindset — bold, strategic, and relentless  
-- ⚙️ I love blending **development with management**  
-- 💼 I'm more than a coder — I’m a digital leader  
-- 🎮 Always down to optimize Minecraft servers & tech platforms  
-- 📘 My motto: *Build to Empower. Scale with Vision.*
 
 ---
 
