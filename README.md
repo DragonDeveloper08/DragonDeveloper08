@@ -95,4 +95,4 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 > **“From spark to inferno — I build with purpose and scale with fire.”**
 
-** - POWERED BY DRAGON **
+**- POWERED BY DRAGON**
