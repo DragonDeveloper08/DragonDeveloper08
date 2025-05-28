@@ -1,6 +1,6 @@
 <!-- 🔥 Static DRAGON Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-Full%20Stack%20Dev%20%7C%20Entrepreneur-red?style=for-the-badge&logo=dragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
