@@ -6,7 +6,7 @@
 <!-- ⌨️ Typing Animation Tagline -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Code%2C+Manage+%26+Lead;Powering+Management%2C+Development+%26+Leadership+with+Fire;DRAGON" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Code%2C+Manage+%26+Lead;Powering+Management%2C+Development+%26+Leadership+with+Fire;DRAGON ⚡" alt="Typing SVG" />
   </a>
 </p>
 
