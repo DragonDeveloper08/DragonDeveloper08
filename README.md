@@ -16,7 +16,7 @@
 <p align="center" style="margin-top: -10px;">
   <a href="https://github.com/DragonDeveloper">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Empowering%20Innovation%20with%20Management,%20Development%20%26%20Leadership"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Empowering%20Management,%20development%20and%20leadership%20with%20fire"
       alt="Typing line 2"
       style="margin-top: 0;"
     />
