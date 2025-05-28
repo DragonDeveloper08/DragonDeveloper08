@@ -10,9 +10,9 @@
   </a>
 </p>
 
-<!-- ⚡ Enlarged Emoji -->
-<p align="center" style="font-size: 60px;">
-  ⚡
+<!-- ⚡ Animated Lightning Bolt -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Lightning Bolt" width="60" />
 </p>
 
 ---
