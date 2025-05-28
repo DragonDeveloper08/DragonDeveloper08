@@ -1,18 +1,84 @@
-# ⭐ About Me:
-HEY! 👋, AM DRAGON<br>A PASSIONATE DEVELOPER AND MANAGER WHO LEARN'S, DEVELOP'S AND CREATE'S NEW THINGS. I LOVE TO LEARN MORE AND MORE ABOUT THINGS LIKE DEVELOPMENTS ,CODING, BUSINESS, ETC STUFF.... <br><br>⚡| WORKING ON HOSTINGKARLE.COM<br><br>📚| LEARNING CODING AND DEVELOPMENTS<br>👨‍💻| DEVELOPMENT AND MANAGEMENT SPECIALIST <br>📡| TRYING TO GROW DAY BY DAY<br><br>Ｄ  Ｒ  Ａ  Ｇ  Ｏ  Ｎ<br><br>WOULD BE LEARNING:- ↓<br>                                             
+<!-- 🔥 Static DRAGON Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DRAGON-Full%20Stack%20Dev%20%7C%20CEO-red?style=for-the-badge&logo=dragon&logoColor=white" />
+</p>
 
+<!-- ⌨️ Typing Animation Tagline -->
+<p align="center">
+  <a href="https://github.com/DragonDeveloper">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Code%2C+Manage+%26+Lead;Powering+Management%2C+Development+%26+Leadership+with+Fire;DRAGON" alt="Typing SVG" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DragonDeveloper08&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DragonDeveloper08&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDeveloper08&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DragonDeveloper08&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+### 💼 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DragonDeveloper08&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+I’m Dragon, a passionate developer, manager, and CEO focused on powering innovative projects like HostingKarle. With a strong drive for leadership and hands-on development, I thrive on blending management expertise with cutting-edge technology. Currently learning fullstack web development, Java, Python, and much more, I’m committed to continuous growth and creating impactful solutions in the hosting, tech, business, and gaming communities.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🚀 Would Be Learning
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="Database Management" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/business.png" width="40" height="40" alt="Business Management" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Canva_Logo.png" width="40" height="40" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+</p>
+
+---
+
+### 🔥 Working On
+
+<p align="center">
+  <a href="https://hostingkarle.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HostingKarle-HostingKarle.com-blue?style=for-the-badge&logo=cloudflare" alt="HostingKarle" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DragonDeveloper&show_icons=true&theme=radical&border_radius=10&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonDeveloper&theme=radical&border_radius=10&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDeveloper&layout=compact&theme=radical&hide_border=false&border_radius=10" width="60%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DragonDeveloper&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://discord.gg/YOUR_SERVER" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DragonDeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
