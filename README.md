@@ -56,7 +56,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 💼 Projects & Ventures
 
 👑 **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-👑 **Executive** — [GameKarle | A Minecraft network]
+👑 **Executive** — GameKarle
 
 ---
 
