@@ -1,29 +1,16 @@
 <!-- 🔥 Static DRAGON Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&rounded=true" />
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white" />
 </p>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=80&lines=Code%20%7C%20Manage%20%7C%20Develop" 
-      alt="Typing line 1" 
-      style="margin-bottom: 0;" 
-    />
-  </a>
-</p>
-<p align="center" style="margin-top: -15px;">
-  <a href="https://github.com/DragonDeveloper">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=80&lines=Empowering%20Management,%20development%20and%20leadership%20with%20fire" 
-      alt="Typing line 2" 
-      style="margin-top: 0;" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code+%7C+Manage+%7C+Lead+%F0%9F%94%A5;Powering+Innovation%2C+Business%2C+%26+Development;Crafting+Future-ready+Tech+-+DRAGON" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- 👋 Animated Wave Emoji -->
+<!-- 👋 Animated Greeting -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand" />
 </p>
@@ -32,8 +19,8 @@
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** ⚡  
-A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, and gaming** communities.
+Hey there, I'm **Dragon** ⚡
+A visionary & passionate **developer,manager,Executive and entrepreneur**, blazing trails in the **hosting, tech, business, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
@@ -54,19 +41,19 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 🌐 Learning
 
 - Web Development  
-- Programming Languages (Java, Python, Node.js, React)  
-- Databases & Business Management  
-- Design Tools (Canva)  
-- Management Tools (ClickUp, Notion)  
+- Programming Languages  
+- Databases  
+- Design Tools  
+- Management Tools  
 - Deployment & Hosting  
-- Business & Entrepreneurship
+- Business & entrepreneurship
 
 ---
 
 ## 💼 Projects & Ventures
 
 🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-🎮 [GameKarle](A Minecraft network) 
+[GameKarle](A Minecraft network) 
 
 ---
 
@@ -99,6 +86,8 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
   <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
 
 ---
 
