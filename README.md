@@ -23,7 +23,7 @@
 ## 💼 About Me
 
 Hey there, I'm **Dragon** ⚡  
-A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, and gaming** communities.
+A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business,developing,and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
 
@@ -37,7 +37,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 🔭 **Mission:** Craft intelligent, scalable, user-centric platforms.  
 👁️ **Vision:** Transform ideas into innovative ecosystems.  
-💎 **Values:** Excellence · Discipline · Integrity · Leadership
+💎 **Values:** Excellence · Discipline · Integrity · Leadership · Learning
 
 ---
 
@@ -55,8 +55,9 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 ## 💼 Projects & Ventures
 
-🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-🎮 [GameKarle](A Minecraft network) 
+👑 **Executive** — [HostingKarle.com](https://hostingkarle.com)  
+👑 **Executive** -
+[GameKarle | A minecraft network]
 
 ---
 
@@ -93,3 +94,5 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ---
 
 > 🔥 **“From spark to inferno — I build with purpose and scale with fire.”**
+
+** - POWERED BY DRAGON**
