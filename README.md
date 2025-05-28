@@ -1,42 +1,38 @@
-<!-- Custom MYSELF DRAGON Header -->
-<h1 align="center" style="
-  font-family: 'Fira Code', monospace;
-  font-weight: 900;
-  font-size: 72px;
-  color: #ff4500;
-  text-shadow: 0 0 10px #ff4500, 0 0 20px #ff6347, 0 0 30px #ff6347, 0 0 40px #ff4500;
-  letter-spacing: 8px;
-  border: 4px solid #ff4500;
-  border-radius: 24px;
-  padding: 16px 40px;
-  display: inline-block;
-  margin: 20px auto;
-">
-  MYSELF DRAGON
-</h1>
+<!-- 🔥 Static DRAGON Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DRAGON-red?style=for-the-badge&logo=dragon&logoColor=white&rounded=true" />
+</p>
 
-<!-- ⌨️ Typing Animation -->
+<!-- ⌨️ Typing Animation - Smaller font size for better fit -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Code%20%7C%20Manage%20%7C%20Develop" alt="Typing SVG line 1" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Code%20%7C%20Manage%20%7C%20Develop"
+      alt="Typing line 1"
+      style="margin-bottom: 0;"
+    />
   </a>
 </p>
-<p align="center" style="margin-top:-20px;">
+<p align="center" style="margin-top: -10px;">
   <a href="https://github.com/DragonDeveloper">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1200&center=true&vCenter=true&width=1200&height=80&lines=Empowering%20Innovation%20with%20Management%2C%20Development%20%26%20Leadership" alt="Typing SVG line 2" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=900&height=90&lines=Empowering%20Innovation%20with%20Management,%20Development%20%26%20Leadership"
+      alt="Typing line 2"
+      style="margin-top: 0;"
+    />
   </a>
 </p>
 
-<!-- ⭐ Animated Greeting -->
+<!-- ⭐ Animated Emoji -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="40" alt="Shining star" />
+  <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="40" alt="Star animation" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-Hey there, I'm **Dragon** ⭐  
+Hey there, I'm **Dragon** ⚡  
 A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, and gaming** communities.
 
 🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
@@ -57,61 +53,32 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 ## 🌐 Learning
 
-- Web Development (Fullstack)  
-- Java, Python (probably)  
-- Node.js, React  
-- Database & Business Management  
-- Canva for Design  
-- ClickUp & Notion for Productivity  
+- Web Development  
+- Programming Languages (Java, Python, Node.js, React)  
+- Databases & Business Management  
+- Design Tools (Canva)  
+- Management Tools (ClickUp, Notion)  
 - Deployment & Hosting  
-- Entrepreneurship & Leadership  
-- *And much more.*
+- Business & Entrepreneurship
 
 ---
 
-## 💻 Skills & Technologies
+## 💼 Projects & Ventures
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-
----
-
-## 🚀 Projects & Roles
-
-- Executive & Developer @ [HostingKarle.com](https://hostingkarle.com)  
-- Founder & Manager @ GameKarle Minecraft Network
-
----
-
-## 🎯 Goals & Aspirations
-
-- Master fullstack web development  
-- Grow leadership & business skills  
-- Launch innovative tech solutions  
-- Empower communities through tech & gaming
-
----
-
-## 🤝 Community & Leadership
-
-Active member in hosting, business, and gaming communities — contributing, managing, and leading with passion.
+🛠️ **Executive** — [HostingKarle.com](https://hostingkarle.com)  
+🎮 [GameKarle](A Minecraft network) 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DragonDeveloper&show_icons=true&theme=radical&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonDeveloper&theme=radical&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DragonDeveloper&show_icons=true&theme=radical&border_radius=10&hide_border=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonDeveloper&theme=radical&border_radius=10&hide_border=false" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDeveloper&layout=compact&theme=radical&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDeveloper&layout=compact&theme=radical&hide_border=false&border_radius=10" width="60%" />
 </p>
 
 ---
