@@ -1,8 +1,8 @@
-<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color -->
+<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color (One-time appearance) -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON&repeat=false" 
       alt="Typing SVG - MYSELF DRAGON" 
     />
   </a>
@@ -23,11 +23,10 @@
 ## 💼 About Me
 
 Hey there, I'm **Dragon** ⚡  
-A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, developing, and gaming** communities.
+A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
 
-🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building the next-gen hosting solutions.
-
-🎯 I turn **ideas into digital empires** — code with precision, manage with strategy, and lead with heart.
+🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.  
+🧠 Innovating systems that empower people and scale with precision.
 
 > 💡 “I don't just build software, I build systems that **empower** people.”
 
@@ -41,23 +40,23 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 ---
 
-## 🌐 Learning
+## 🌐 Currently Learning
 
-- Web Development  
-- Programming Languages (Java, Python, Node.js, React etc.)  
-- Databases & Business Management  
-- Design Tools (Canva)  
-- Management Tools (ClickUp, Notion)  
-- Deployment & Hosting  
-- Business & Entrepreneurship
-- And Much More
+- Full Stack Web Development  
+- Java · Python · Node.js · React  
+- Databases & System Architecture  
+- Business Management & Strategy  
+- Tools like **Canva**, **ClickUp**, and **Notion**  
+- Deployment & Hosting Infrastructure  
+- Entrepreneurship and Community Building
 
 ---
 
 ## 💼 Projects & Ventures
 
-👑 **Executive** — [HostingKarle.com](https://hostingkarle.com)  
-👑 **Executive** — GameKarle
+👑 **Executive** — [HostingKarle](https://hostingkarle.com)  
+🎮 **Executive** — GameKarle  
+📈 Passionate about scaling ideas into real-world systems
 
 ---
 
@@ -88,10 +87,12 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
   <a href="mailto:contact.dragon.me@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/hostingkarle-24-7-free-paid-hosting-1197153808816558091"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a 
+</p>
 
 ---
 
 > **“From spark to inferno — I build with purpose and scale with fire.”**
 
-**- POWERED BY DRAGON**
+<p align="center">
+  <strong><span style="font-size: 28px; border-radius: 15px; padding: 8px 20px; background: linear-gradient(90deg, #00ffff, #0077ff); color: #000; font-weight: bold;">POWERED BY DRAGON</span></strong>
+</p>
