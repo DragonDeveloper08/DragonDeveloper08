@@ -1,5 +1,7 @@
-<!-- 🐉 Static DRAGON Tag -->
-<h1 align="center" style="font-size: 48px; color: #00FFFF;">MYSELF DRAGON</h1>
+<!-- 🐉 Static DRAGON Tag in Aqua -->
+<h1 align="center">
+  <strong><span style="color:#00FFFF;">MYSELF DRAGON</span></strong>
+</h1>
 
 <!-- ⌨️ Typing Animation Below Static Tag -->
 <p align="center">
