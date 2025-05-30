@@ -25,7 +25,8 @@
 Hey there, I'm **Dragon** ⚡  
 A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
 
-🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.  
+🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.
+  
 🧠 Innovating systems that empower people and scale with precision.
 
 > 💡 “I don't just build software, I build systems that **empower** people.”
