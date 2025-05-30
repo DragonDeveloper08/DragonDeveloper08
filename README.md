@@ -1,19 +1,9 @@
-<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color -->
+<!-- ⌨️ Combined Typing Animation: MYSELF DRAGON ➜ Professional Lines ➜ Back to MYSELF DRAGON -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON" 
-      alt="Typing SVG - MYSELF DRAGON" 
-    />
-  </a>
-</p>
-
-<!-- ⌨️ Typing Animation (multi-line cycling) without emoji -->
-<p align="center">
-  <a href="https://github.com/DragonDeveloper">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%20%7C%20Manage%20%7C%20Lead;Powering%20Management%2C%20Business%2C%20Development%20%26%20Leadership;Creating%20future-ready%20Technologies%20-%20DRAGON" 
-      alt="Typing SVG" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=1500&center=true&vCenter=true&width=1000&height=85&lines=MYSELF+DRAGON;Code+%7C+Manage+%7C+Lead;Powering+Management,+Business,+Development+%26+Leadership;Creating+future-ready+Technologies+-+DRAGON;MYSELF+DRAGON" 
+      alt="Typing SVG - DRAGON Identity Cycle" 
     />
   </a>
 </p>
@@ -49,7 +39,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 - Design Tools (Canva)  
 - Management Tools (ClickUp, Notion)  
 - Deployment & Hosting  
-- Business & Entrepreneurship
+- Business & Entrepreneurship  
 - And Much More
 
 ---
@@ -88,7 +78,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
   <a href="mailto:contact.dragon.me@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.gg/hostingkarle-24-7-free-paid-hosting-1197153808816558091"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://github.com/DragonDeveloper"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a 
+</p>
 
 ---
 
