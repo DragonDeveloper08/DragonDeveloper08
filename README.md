@@ -44,7 +44,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 🌐 Learning
 
 - Web Development  
-- Programming Languages (Java, Python, Node.js, React)  
+- Programming Languages (Java, Python, Node.js, React etc.)  
 - Databases & Business Management  
 - Design Tools (Canva)  
 - Management Tools (ClickUp, Notion)  
