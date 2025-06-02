@@ -50,7 +50,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 - Tools like **Canva**, **ClickUp**, and **Notion**  
 - Deployment & Hosting Infrastructure  
 - Entrepreneurship and Community Building
-
+- And much more.... 
 ---
 
 ## 💼 Projects & Ventures
