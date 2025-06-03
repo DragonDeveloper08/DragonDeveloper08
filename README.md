@@ -44,7 +44,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 🌐 Currently Learning
 
 - Full Stack Web Development  
-- Java · Python · Node.js · React  
+- Java · Python · Node.js · React etc..... 
 - Databases & System Architecture  
 - Business Management & Strategy  
 - Tools like **Canva**, **ClickUp**, and **Notion**  
