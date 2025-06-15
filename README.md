@@ -1,14 +1,14 @@
-<!-- ⌨️ Typing Animation Header -->
+<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color (One-time appearance) -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&color=00FFFF&duration=4000&pause=1500&center=true&vCenter=true&width=800&height=60&lines=DRAGON+%7C+Developer+·+CEO+·+Visionary&repeat=false" 
-      alt="Typing SVG - DRAGON Brand Intro" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&width=600&height=80&lines=MYSELF+DRAGON&repeat=false" 
+      alt="Typing SVG - MYSELF DRAGON" 
     />
   </a>
 </p>
 
-<!-- 🔁 Typing Animation - Multi-line -->
+<!-- ⌨️ Typing Animation (multi-line cycling) without emoji -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
@@ -25,16 +25,11 @@
 Hey there, I'm **Dragon** ⚡  
 A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
 
-🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.  
+🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.
+  
 🧠 Innovating systems that empower people and scale with precision.
 
-<!-- 💡 Animated Quote -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&center=true&vCenter=true&width=800&height=40&lines=%22I+don't+just+build+software,+I+build+systems+that+empower+people.%22" 
-    alt="Typing SVG Quote" 
-  />
-</p>
+> 💡 “I don't just build software, I build systems that **empower** people.”
 
 ---
 
@@ -49,14 +44,13 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 🌐 Currently Learning
 
 - Full Stack Web Development  
-- Java · Python · Node.js · React etc.....  
+- Java · Python · Node.js · React etc..... 
 - Databases & System Architecture  
 - Business Management & Strategy  
 - Tools like **Canva**, **ClickUp**, and **Notion**  
 - Deployment & Hosting Infrastructure  
-- Entrepreneurship and Community Building  
-- And much more....
-
+- Entrepreneurship and Community Building
+- And much more.... 
 ---
 
 ## 💼 Projects & Ventures
@@ -98,21 +92,8 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 ---
 
-<!-- 🚀 Glowing "Powered by Dragon" Section -->
+> **“From spark to inferno — I build with purpose and scale with fire.”**
+
 <p align="center">
-  <strong>
-    <span style="
-      display: inline-block;
-      font-size: 32px;
-      font-weight: bold;
-      padding: 12px 28px;
-      border-radius: 40px;
-      background: linear-gradient(135deg, #00ffff, #ff6600);
-      color: #000;
-      box-shadow: 0 0 12px #00ffff, 0 0 24px #ff6600;
-      transform: rotate(-1.5deg);
-    ">
-      ⚡ POWERED BY DRAGON
-    </span>
-  </strong>
+  <strong><span style="font-size: 28px; border-radius: 15px; padding: 8px 20px; background: linear-gradient(90deg, #00ffff, #0077ff); color: #000; font-weight: bold;">POWERED BY DRAGON</span></strong>
 </p>
