@@ -54,8 +54,11 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 ## 💼 Projects & Ventures
 
 👑 **Chief Experience Officer** — [ServerVerse](https://serververs.com) 
+
 👑 **Executive** — [HostingKarle](https://hostingkarle.com)  
+
 🎮 **Executive** — GameKarle  
+
 📈 Passionate about scaling ideas into real-world systems
 
 ---
