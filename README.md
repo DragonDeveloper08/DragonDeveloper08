@@ -24,8 +24,6 @@
 
 Hey there, I'm **Dragon** ⚡  
 A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
-
-🚀 Executive of [**HostingKarle**](https://hostingkarle.com) — Building next-gen hosting solutions.
   
 🧠 Innovating systems that empower people and scale with precision.
 
@@ -55,6 +53,7 @@ A visionary & passionate **developer, manager, executive, and entrepreneur**, bl
 
 ## 💼 Projects & Ventures
 
+👑 **Chief Experience Officer** — [ServerVerse](https://serververs.com) 
 👑 **Executive** — [HostingKarle](https://hostingkarle.com)  
 🎮 **Executive** — GameKarle  
 📈 Passionate about scaling ideas into real-world systems
