@@ -1,8 +1,8 @@
-<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color (One-time appearance, typewriter + hand wave) -->
+<!-- ⌨️ Typing Animation for Tag "MYSELF DRAGON" with aqua color and lightning bolt (One-time appearance) -->
 <p align="center">
   <a href="https://github.com/DragonDeveloper">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&typewriter=true&width=600&height=80&lines=MYSELF+DRAGON+%F0%9F%91%8B&repeat=false" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&color=00FFFF&duration=3000&pause=1500&center=true&vCenter=true&typewriter=true&width=600&height=80&lines=MYSELF+DRAGON+%E2%9A%A1&repeat=false" 
       alt="Typing SVG - MYSELF DRAGON ⚡" 
     />
   </a>
