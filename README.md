@@ -8,22 +8,12 @@
   </a>
 </p>
 
-<!-- ⌨️ Typing Animation (multi-line cycling) without emoji -->
-<p align="center">
-  <a href="https://github.com/DragonDeveloper">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=1000&height=70&lines=Code%20%7C%20Manage%20%7C%20Lead;Powering%20Management%2C%20Business%2C%20Development%20%26%20Leadership;Creating%20future-ready%20Technologies%20-%20DRAGON" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
 ---
 
 ## 💼 About Me
 
 Hey there, I'm **Dragon** ⚡  
-A visionary & passionate **developer, manager, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
+A visionary & passionate **developer, executive, and entrepreneur**, blazing trails in the **hosting, business, development, and gaming** industries.
   
 🧠 Innovating systems that empower people and scale with precision.
 
